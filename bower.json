@@ -1,0 +1,10 @@
+{
+  "name": "mean",
+  "dependencies": {
+    "jquery": "latest",
+    "bootstrap": "latest",
+    "jqBootstrapValidation": "latest",
+    "fontawesome": "latest",
+    "angular": "~1.4.x"
+  }
+}
