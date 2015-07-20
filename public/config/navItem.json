@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Services",
+    "ref": "#services"
+  },
+  {
+    "name": "Portfolio",
+    "ref": "#portfolio"
+  },
+  {
+    "name": "About",
+    "ref": "#about"
+  },
+  {
+    "name": "Team",
+    "ref": "#team"
+  },
+  {
+    "name": "Contact",
+    "ref": "#contact"
+  }
+]

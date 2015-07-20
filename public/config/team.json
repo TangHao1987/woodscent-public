@@ -1,0 +1,36 @@
+{
+  "header": "Our Amazing Team",
+  "subHeader": "Lorem ipsum dolor sit amet consectetur."
+  "members": [
+    {
+      "name": "Kay Garland",
+      "occupation": "Lead Designer",
+      "profilePhoto": "images/team/1.jpg",
+      "socialBtn": {
+        "twitterRef": "#",
+        "fbRef": "#",
+        "linkedinRef": "#"
+      }
+    },
+    {
+      "name": "Larry Parker",
+      "occupation": "Lead Marketer",
+      "profilePhoto": "images/team/2.jpg",
+      "socialBtn": {
+        "twitterRef": "#",
+        "fbRef": "#",
+        "linkedinRef": "#"
+      }
+    },
+    {
+      "name": "Diana Pertersen",
+      "occupation": "Lead Developer",
+      "profilePhoto": "images/team/3.jpg",
+      "socialBtn": {
+        "twitterRef": "#",
+        "fbRef": "#",
+        "linkedinRef": "#"
+      }
+    }
+  ]
+}

@@ -1,0 +1,37 @@
+{
+  "header": "Portfolio",
+  "subHeader": "Lorem ipsum dolor sit amet consectetur.",
+  "items": [
+    {
+      "image": "images/portfolio/roundicons.png",
+      "modal": "#portfolioModal1",
+      "title": "Round Icons",
+      "description": "Graphic Design"
+    },{
+      "image": "images/portfolio/startup-framework.png",
+      "modal": "#portfolioModal2",
+      "title": "Startup Framework",
+      "description": "Website Design"
+    },{
+      "image": "images/portfolio/treehouse.png",
+      "modal": "#portfolioModal3",
+      "title": "Treehouse",
+      "description": "Website Design"
+    },{
+      "image": "images/portfolio/golden.png",
+      "modal": "#portfolioModal4",
+      "title": "Golden",
+      "description": "Website Design"
+    },{
+      "image": "images/portfolio/escape.png",
+      "modal": "#portfolioModal5",
+      "title": "Escape",
+      "description": "Website Design"
+    },{
+      "image": "images/portfolio/dreams.png",
+      "modal": "#portfolioModal6",
+      "title": "Dreams",
+      "description": "Website Design"
+    }
+  ]
+}
